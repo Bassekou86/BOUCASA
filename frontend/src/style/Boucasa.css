@@ -1,0 +1,55 @@
+.abc-logo {
+	width: 10%;
+    height: 10%;
+    margin-right: 0.5rem;
+    animation: rotate 0.7s ease-in-out 0.5s;
+}
+.abc-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 2.5rem;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    margin-right: 10;
+  }
+.abc-homeimage {
+    
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    object-position: 30% 30%;
+    float: right;
+  }
+.abc-title {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    color:#deb887;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+  }
+  .abc-title1 {
+    position: relative;
+    float: left;
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    color:#deb887;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+  }
+  .abc-paragraphe {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    color:#deb887;
+  }
